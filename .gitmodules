@@ -1,3 +1,6 @@
 [submodule "hugoSite/themes/journal"]
 	path = hugoSite/themes/journal
 	url = https://github.com/dashdashzako/hugo-journal.git
+[submodule "hugoSite/themes/zozo"]
+	path = hugoSite/themes/zozo
+	url = https://github.com/varkai/hugo-theme-zozo.git
