@@ -1,4 +1,4 @@
-baseURL = "http://superzscy.github.io/"
+baseURL = "https://superzscy.github.io/"
 languageCode = "zh-cn"
 title = "小虾米日记"
 theme = "zozo"

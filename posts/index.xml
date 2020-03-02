@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 小虾米日记</title>
-    <link>http://superzscy.github.io/posts/</link>
+    <link>https://superzscy.github.io/posts/</link>
     <description>Recent content in Posts on 小虾米日记</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 16 Jan 2020 08:49:00 +0800</lastBuildDate>
     
-	<atom:link href="http://superzscy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://superzscy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello, World!</title>
-      <link>http://superzscy.github.io/posts/2020-01-16/</link>
+      <link>https://superzscy.github.io/posts/2020-01-16/</link>
       <pubDate>Thu, 16 Jan 2020 08:49:00 +0800</pubDate>
       
-      <guid>http://superzscy.github.io/posts/2020-01-16/</guid>
+      <guid>https://superzscy.github.io/posts/2020-01-16/</guid>
       <description>小虾米我来了.</description>
     </item>
     
