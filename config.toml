@@ -2,7 +2,6 @@ baseURL = "https://superzscy.github.io/"
 languageCode = "zh-cn"
 title = "小虾米日记"
 theme = "zozo"
-publishdir = "."
 summaryLength = 100
 paginate = 4                         # shows the number of articles  # 首页显示文章数量
 
